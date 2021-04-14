@@ -9,5 +9,8 @@
 - 💬 Ask me about anything you wish 
 - 📫 How to reach me: www.linkedin.com/in/tomas-kloucek
 
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TomKloucek&show_icons=true&theme=onedark)
+<details>
+  <summary>:star2: My GitHub Stats</summary>
+  <img align="left" alt="zimice's GitHub Stats" src="https://github-readme-stats-zimice.vercel.app/api?username=TomKloucek&show_icons=true&hide_border=true&theme=onedark" />
+<img align="left" alt="zimice's GitHub Stats" src="https://github-readme-stats-zimice.vercel.app/api/top-langs/?username=TomKloucek&theme=onedark" />
+</details>
