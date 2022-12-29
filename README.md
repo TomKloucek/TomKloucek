@@ -4,9 +4,8 @@
 **TomKloucek/TomKloucek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently studying Vue.js
-- 🤔 I’m looking for help with advanced Vue.js
-- 💬 Ask me about anything you wish 
+- 🔭 I’m currently studying CTU
+- 💬 Want to be software engineer at one of the biggest tech companies
 - 📫 How to reach me: www.linkedin.com/in/tomas-kloucek
 
 <details>
